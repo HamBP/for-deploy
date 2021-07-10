@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/for-deploy/static/css/main.a0c1c74c.chunk.css",
+    "main.js": "/for-deploy/static/js/main.6815bc0d.chunk.js",
+    "main.js.map": "/for-deploy/static/js/main.6815bc0d.chunk.js.map",
+    "runtime-main.js": "/for-deploy/static/js/runtime-main.d5e451ac.js",
+    "runtime-main.js.map": "/for-deploy/static/js/runtime-main.d5e451ac.js.map",
+    "static/js/2.c9967528.chunk.js": "/for-deploy/static/js/2.c9967528.chunk.js",
+    "static/js/2.c9967528.chunk.js.map": "/for-deploy/static/js/2.c9967528.chunk.js.map",
+    "static/js/3.019d9714.chunk.js": "/for-deploy/static/js/3.019d9714.chunk.js",
+    "static/js/3.019d9714.chunk.js.map": "/for-deploy/static/js/3.019d9714.chunk.js.map",
+    "index.html": "/for-deploy/index.html",
+    "static/css/main.a0c1c74c.chunk.css.map": "/for-deploy/static/css/main.a0c1c74c.chunk.css.map",
+    "static/js/2.c9967528.chunk.js.LICENSE.txt": "/for-deploy/static/js/2.c9967528.chunk.js.LICENSE.txt",
+    "static/media/AudioPlayer.css": "/for-deploy/static/media/audio-background.1935e116.png",
+    "static/media/Home.css": "/for-deploy/static/media/background.25ab2e9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5e451ac.js",
+    "static/js/2.c9967528.chunk.js",
+    "static/css/main.a0c1c74c.chunk.css",
+    "static/js/main.6815bc0d.chunk.js"
+  ]
+}
