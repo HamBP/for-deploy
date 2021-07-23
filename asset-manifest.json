@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/i-shadow-web/static/css/main.1effc2d3.chunk.css",
+    "main.js": "/i-shadow-web/static/js/main.9bb7069d.chunk.js",
+    "main.js.map": "/i-shadow-web/static/js/main.9bb7069d.chunk.js.map",
+    "runtime-main.js": "/i-shadow-web/static/js/runtime-main.b41bc6bc.js",
+    "runtime-main.js.map": "/i-shadow-web/static/js/runtime-main.b41bc6bc.js.map",
+    "static/js/2.c9967528.chunk.js": "/i-shadow-web/static/js/2.c9967528.chunk.js",
+    "static/js/2.c9967528.chunk.js.map": "/i-shadow-web/static/js/2.c9967528.chunk.js.map",
+    "static/js/3.ccae10d7.chunk.js": "/i-shadow-web/static/js/3.ccae10d7.chunk.js",
+    "static/js/3.ccae10d7.chunk.js.map": "/i-shadow-web/static/js/3.ccae10d7.chunk.js.map",
+    "index.html": "/i-shadow-web/index.html",
+    "static/css/main.1effc2d3.chunk.css.map": "/i-shadow-web/static/css/main.1effc2d3.chunk.css.map",
+    "static/js/2.c9967528.chunk.js.LICENSE.txt": "/i-shadow-web/static/js/2.c9967528.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/i-shadow-web/static/media/mbackground.25ab2e9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b41bc6bc.js",
+    "static/js/2.c9967528.chunk.js",
+    "static/css/main.1effc2d3.chunk.css",
+    "static/js/main.9bb7069d.chunk.js"
+  ]
+}
